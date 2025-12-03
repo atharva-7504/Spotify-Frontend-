@@ -16,21 +16,21 @@ only HTML and CSS.
 
 🎯 Learning Goals
 
--   🔹 Master CSS layouts (Flexbox, Grid, Positioning)
--   🔹 Understand real-world UI structure
--   🔹 Improve spacing, typography, and visual alignment
--   🔹 Add hover effects and transitions
--   🔹 Practice responsiveness
--   🔹 Strengthen front-end fundamentals
+-     Master CSS layouts (Flexbox, Grid, Positioning)
+-     Understand real-world UI structure
+-     Improve spacing, typography, and visual alignment
+-     Add hover effects and transitions
+-     Practice responsiveness
+-     Strengthen front-end fundamentals
 
 ✨ Features Implemented
 
--   ✔️ Spotify-style sidebar navigation
--   ✔️ Header + main content layout
--   ✔️ Album & playlist cards
--   ✔️ Hover animations
--   ✔️ Clean Flexbox/Grid structure
--   ✔️ Basic responsive behavior
+-     Spotify-style sidebar navigation
+-     Header + main content layout
+-     Album & playlist cards
+-     Hover animations
+-     Clean Flexbox/Grid structure
+-     Basic responsive behavior
 
 🛠️ Tech Stack
 
