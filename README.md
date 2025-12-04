@@ -33,6 +33,9 @@ only HTML and CSS.
 -    Basic responsive behavior
   
   <img width="1917" height="887" alt="Screenshot 2025-12-03 211155" src="https://github.com/user-attachments/assets/d46333fc-04de-40df-a75b-d5113a3f0d0d" />
+
+
+  
    <img width="1919" height="890" alt="Screenshot 2025-12-03 211212" src="https://github.com/user-attachments/assets/ef5c56db-cc81-42ab-8df3-8e1505abc931" />
 
    
@@ -49,8 +52,6 @@ only HTML and CSS.
 -   🎧 Add JavaScript music controls (play/pause)
 
 🙌 Conclusion
-src="https://github.com/user-attachments/assets/fc5cbe3b-d4f1-4862-8a22-7526db0f74bd" />
-
 
 This project is an important milestone in my front-end journey.
 I am excited to continue learning and building more advanced UI
